@@ -1,7 +1,5 @@
-# Currency-Converter-app
-"Simple currency converter app built with HTML, CSS, and JavaScript. Converts between multiple currencies with real-time exchange rates for easy conversion."
-# Currency Converter App
 
+# Currency Converter App
 A simple currency converter application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to convert between multiple currencies with real-time exchange rates.
 
 ## Features
